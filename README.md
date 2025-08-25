@@ -21,7 +21,9 @@ I'm a passionate developer with a love for creating innovative solutions and lea
 ### 📊 GitHub Stats
 
 ![Hardik's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardikm1410&show_icons=true&theme=radical)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hardikm1410&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hardikm1410&layout=compact&theme=radical)
 
 ---
